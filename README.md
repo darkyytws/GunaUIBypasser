@@ -1,2 +1,3 @@
-# GunaUIBypasser
-Una utilidad .exe para bypassear la ventana de la famosa extension framework, llamada "Guna.UI2.WinForms" antes llamada "Siticone.Desktop.UI" HECHO POR: DARKYYTWS ©
+<h1 align="center">
+  <a href="https://github.com/darkyytws/GunaUIBypasser/" target="_blank"><img src="https://raw.githubusercontent.com/darkyytws/GunaUIBypasser/refs/heads/main/recursos/banner.jpg" alt="Guna2UIBypasser" width="800"></a>
+</h1>
